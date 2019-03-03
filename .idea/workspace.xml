@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5fe268a-62ee-427f-ac65-1b0dad416836" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/백준_스택/후위표기식_1918.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/큐/큐_10845.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MindevAlgorithm/백준_스택/후위표기식_1935.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MindevAlgorithm/백준_스택/후위표기식_1935.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MindevAlgorithm/백준_스택/후위표기식_1935.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="후위표기식_1935.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/백준_스택/후위표기식_1935.java">
+        <entry file="file://$PROJECT_DIR$/src/백준/스택/후위표기식_1935.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="1026">
+              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,16 +28,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="후위표기식_1918.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/백준_스택/후위표기식_1918.java">
+      <file leaf-file-name="후위표기식_1918.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/백준/스택/후위표기식_1918.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
-              <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+            <state relative-caret-position="95">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="큐_10845.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/백준/큐/큐_10845.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="180" column="12" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="253" column="13" selection-start-line="253" selection-start-column="13" selection-end-line="253" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="후위표기식_1918.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/자료구조/스택/후위표기식_1918.md">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
@@ -75,10 +109,14 @@
         <option value="$PROJECT_DIR$/src/백준_스택/Main.java" />
         <option value="$PROJECT_DIR$/src/백준_스택/후위표기식_1935.java" />
         <option value="$PROJECT_DIR$/src/백준_스택/후위표기식_1918.java" />
+        <option value="$PROJECT_DIR$/src/백준/후위표기식_1918.java" />
+        <option value="$PROJECT_DIR$/src/백준/스택/후위표기식_1918.java" />
+        <option value="$PROJECT_DIR$/src/백준/스택/큐/큐_10845.java" />
+        <option value="$PROJECT_DIR$/src/백준/큐/큐_10845.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-1920" />
     <option name="y" value="66" />
     <option name="width" value="1920" />
@@ -107,7 +145,32 @@
               <item name="MindevAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="MindevAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="백준_스택" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MindevAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MindevAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+              <item name="스택" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MindevAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MindevAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+              <item name="큐" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MindevAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MindevAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="자료구조" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MindevAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MindevAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="자료구조" type="462c0819:PsiDirectoryNode" />
+              <item name="스택" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,6 +197,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -141,8 +205,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/자료구조/스택/후위표기식_1935.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/자료구조/스택/후위표기식_1918.md</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -243,13 +306,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.후위표기식_1918">
+  <component name="RunManager" selected="Application.큐_10845">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="백준.스택.후위표기식_1935" />
       <module name="MindevAlgorithm" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="큐_10845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.큐.큐_10845" />
+      <module name="MindevAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="후위표기식_1918" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.스택.후위표기식_1918" />
@@ -264,9 +337,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.후위표기식_1918" />
+      <item itemvalue="Application.큐_10845" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.큐_10845" />
         <item itemvalue="Application.후위표기식_1918" />
         <item itemvalue="Application.Main" />
       </list>
@@ -283,10 +358,18 @@
       <option name="presentableId" value="Default" />
       <updated>1551267895421</updated>
     </task>
+    <task id="LOCAL-00001" summary="백준 스택 1918 후위표기식">
+      <created>1551506766920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551506766920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="66" width="1920" height="1057" extended-state="6" />
+    <frame x="-1920" y="66" width="1920" height="994" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -297,7 +380,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30010173" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3206522" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -320,13 +403,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백준 스택 1918 후위표기식" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 스택 1918 후위표기식" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/백준_스택/후위표기식_1935.java">
+    <entry file="file://$PROJECT_DIR$/src/백준/스택/후위표기식_1935.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
@@ -343,7 +430,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/백준_스택/후위표기식_1935.java">
+    <entry file="file://$PROJECT_DIR$/src/백준/스택/후위표기식_1935.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
@@ -360,23 +447,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/백준_스택/후위표기식_1935.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/백준/스택/후위표기식_1935.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="1026">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/자료구조/스택/후위표기식_1918.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/백준_스택/후위표기식_1918.java">
+    <entry file="file://$PROJECT_DIR$/src/백준/스택/후위표기식_1918.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="180" column="12" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="253" column="13" selection-start-line="253" selection-start-column="13" selection-end-line="253" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/백준/큐/큐_10845.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
