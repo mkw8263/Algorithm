@@ -19,3 +19,4 @@ Java 알고리즘 스터디
 
 2. 큐
    - [큐_10845](https://github.com/mkw8263/Algorithm/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%81%90/%ED%81%90_10845.md)
+   - [프린터 큐_1966](https://github.com/mkw8263/Algorithm/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%81%90/%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90_1966.md)
