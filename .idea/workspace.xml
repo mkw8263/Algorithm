@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5fe268a-62ee-427f-ac65-1b0dad416836" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/백준/큐/조세퍼스_문제0_11866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/덱/덱_10866.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,11 +51,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="조세퍼스_문제0_11866.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="조세퍼스_문제0_11866.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/백준/큐/조세퍼스_문제0_11866.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="361">
+              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="덱_10866.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/백준/덱/덱_10866.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="57" column="61" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/백준/큐/큐_10845.java" />
         <option value="$PROJECT_DIR$/src/백준/큐/프린터큐_1966.java" />
         <option value="$PROJECT_DIR$/src/백준/큐/조세퍼스_문제0_11866.java" />
+        <option value="$PROJECT_DIR$/src/백준/덱/덱_10866.java" />
       </list>
     </option>
   </component>
@@ -172,14 +185,7 @@
               <item name="MindevAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="백준" type="462c0819:PsiDirectoryNode" />
-              <item name="스택" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MindevAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MindevAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="백준" type="462c0819:PsiDirectoryNode" />
-              <item name="큐" type="462c0819:PsiDirectoryNode" />
+              <item name="덱" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MindevAlgorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -213,14 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.조세퍼스_문제0_11866">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="백준.스택.후위표기식_1935" />
-      <module name="MindevAlgorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
+  <component name="RunManager" selected="Application.덱_10866">
     <configuration name="조세퍼스_문제0_11866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.큐.조세퍼스_문제0_11866" />
       <module name="MindevAlgorithm" />
@@ -237,6 +236,16 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="백준.큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="덱_10866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.덱.덱_10866" />
+      <module name="MindevAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.덱.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,19 +271,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.후위표기식_1918" />
       <item itemvalue="Application.큐_10845" />
       <item itemvalue="Application.프린터큐_1966" />
       <item itemvalue="Application.조세퍼스_문제0_11866" />
+      <item itemvalue="Application.덱_10866" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.덱_10866" />
         <item itemvalue="Application.조세퍼스_문제0_11866" />
         <item itemvalue="Application.프린터큐_1966" />
         <item itemvalue="Application.큐_10845" />
         <item itemvalue="Application.후위표기식_1918" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551625088897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="백준 조세퍼스 문제0 11866">
+      <created>1551701197489</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551701197489</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -352,7 +368,8 @@
     <MESSAGE value="백준 스택 1918 후위표기식" />
     <MESSAGE value="백준 큐 10845" />
     <MESSAGE value="백준 프린터 큐 1966" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 프린터 큐 1966" />
+    <MESSAGE value="백준 조세퍼스 문제0 11866" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 조세퍼스 문제0 11866" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,8 +554,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/백준/큐/조세퍼스_문제0_11866.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="361">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/백준/덱/덱_10866.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="57" column="61" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
