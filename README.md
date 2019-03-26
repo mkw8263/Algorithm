@@ -34,3 +34,6 @@ Java 알고리즘 스터디
    - [정수삼각형_1932](https://github.com/mkw8263/Algorithm/blob/master/DP/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95_1932.md)
    - [RGB거리_1149](https://github.com/mkw8263/Algorithm/blob/master/DP/RGB%EA%B1%B0%EB%A6%AC_1149.md)
    - [계단오르기_2579](https://github.com/mkw8263/Algorithm/blob/master/DP/%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0_2579.md)
+
+> 정렬
+   - [보물_1026](https://github.com/mkw8263/Algorithm/blob/master/%EC%A0%95%EB%A0%AC/%EB%B3%B4%EB%AC%BC_1026.md)
